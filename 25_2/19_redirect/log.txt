@@ -1,0 +1,22 @@
+total 36
+drwxrwxr-x  2 kbsbb_01 kbsbb_01  4096 Mar  2 11:09 .
+drwx------ 10 kbsbb_01 kbsbb_01  4096 Mar  1 14:38 ..
+-rw-rw-r--  1 kbsbb_01 kbsbb_01     0 Mar  2 11:09 log.txt
+-rw-rw-r--  1 kbsbb_01 kbsbb_01   109 Mar  2 11:08 makefile
+-rwxrwxr-x  1 kbsbb_01 kbsbb_01 13656 Mar  2 11:08 myshell
+-rw-rw-r--  1 kbsbb_01 kbsbb_01  3526 Mar  2 11:07 myshell.c
+-rw-rw-r--  1 kbsbb_01 kbsbb_01   483 Mar  2 09:35 test.c
+.
+..
+log.txt
+makefile
+myshell
+myshell.c
+test.c
+.
+..
+log.txt
+makefile
+myshell
+myshell.c
+test.c
